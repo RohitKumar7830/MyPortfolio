@@ -39,7 +39,7 @@ const SocialMedia = () => {
           className="bg-[#F5F5F5] flex-[2] rounded-3xl mb-6 md:mb-0 overflow-hidden"
         >
           <iframe
-            src="/src/assets/Rohit_Kumar_Resume.pdf"
+            src="/Rohit_Kumar_Resume.pdf"
             className="w-full h-[350px]"
             frameBorder="0"
             scrolling="yes"
