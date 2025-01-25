@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const experiences = [
   {
     company: " SmartML Labs",
-    position: "Technical Contributor",
+    position: "Co-Founder & CTO",
     duration: "Jun 2024 - Current",
     image: "/About/logo.jpg",
   },
@@ -19,7 +19,7 @@ const experiences = [
   {
     company: "QSqpiders",
     position: " Front-end Developer Intern",
-    duration: "Jan 2023 - Feb 2023",
+    duration: "Dec 2022 - Mar 2023",
     image: "/Home/qspider.png",
   },
   {
