@@ -10,7 +10,7 @@ const educationData = [
   },
   {
     imgSrc: "/About/cs.webp",
-    degree: "Bachelor of Engineering in Computer Science",
+    degree: "Bachelor of Engineering in Computer Sciences",
     university: "Visvesvaraya Technological University",
     year: "Graduation: May 2023",
   },
